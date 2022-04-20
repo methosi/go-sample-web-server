@@ -43,4 +43,4 @@ Change constants in database/database.go
 
 
 ## Contributor
-Kien Duy Nguyen # be_brankas_test
+Kien Duy Nguyen
